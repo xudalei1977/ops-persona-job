@@ -1,0 +1,4 @@
+type=command
+command=echo "==========Create Portrait Start============"
+dependencies=details
+command=java -classpath ./lib/lavaheat-etl.jar com.lavapm.etl.portrait.Portrait

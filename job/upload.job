@@ -1,0 +1,4 @@
+type=command
+command=echo "==========Upload Start============"
+dependencies=initial
+command=sh ./bin/upload.sh

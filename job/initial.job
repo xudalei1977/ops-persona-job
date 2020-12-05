@@ -1,0 +1,4 @@
+type=command
+command=echo "==========Initial Start============"
+command=echo "==========batchNo============"${batchNo}
+command=java -classpath ./lib/lavaheat-etl.jar com.lavapm.etl.initial.AzkabanInitial '${batchNo}'

@@ -1,0 +1,4 @@
+type=command
+command=echo "==========Basic Tag Start============"
+dependencies=initial
+command=sh ./bin/basicTag.sh

@@ -1,0 +1,4 @@
+type=command
+command=echo "==========System Tag Start============"
+dependencies=initial
+command=sh ./bin/systemTag.sh

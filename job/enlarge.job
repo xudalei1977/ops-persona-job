@@ -1,0 +1,4 @@
+type=command
+command=echo "==========Enlarge Start============"
+dependencies=initial
+command=sh ./bin/enlarge.sh
